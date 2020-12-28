@@ -21,7 +21,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                                "type": "Point"
+                                "type": "Point",
+                                "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
@@ -62,7 +63,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                          "type": "Point"
+                          "type": "Point",
+                          "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
@@ -136,7 +138,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                                "type": "Point"
+                                "type": "Point",
+                                "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
@@ -175,7 +178,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                                "type": "Point"
+                                "type": "Point",
+                                "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
@@ -215,7 +219,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                          "type": "Point"
+                          "type": "Point",
+                          "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
@@ -255,7 +260,8 @@
                         ],
                 "type": "Feature",
                 "geometry": {
-                          "type": "Point"
+                          "type": "Point",
+                          "coordinates": [, ]
                 },
                 "properties": {
                         "name": "Dinagat Islands"
